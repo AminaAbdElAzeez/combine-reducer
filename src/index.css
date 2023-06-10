@@ -17,22 +17,23 @@ code {
 
 .container {
   width: 95%;
-  margin-left: 30px;
+  /* margin-left: 30px; */
+  margin: auto;
 }
 .divOne {
   height: 7em;
   display: inline-block;
   text-align: center;
-  line-height: 8em;
-  margin-top: 0.4em;
+  line-height: 7em;
+  margin-top: 0.2em;
   font-size: 2.5em;
 }
 .divTwo {
   height: 7em;
   display: inline-block;
   text-align: center;
-  line-height: 8em;
-  margin-top: 0.4em;
+  line-height: 7em;
+  margin-top: 0.2em;
   font-size: 2.5em;
 }
 
